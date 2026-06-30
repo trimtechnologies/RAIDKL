@@ -108,3 +108,18 @@ Available `--distillation_method` options:
 - **Training results** → `results/*.csv`  
 - **SHAP plots** → `checkpoints/`  
 - **Performance history (adaptive method)** → JSON files
+
+# Citation
+
+If you use **IoMT-Distillation** in your research, please cite:
+
+```bibtex
+@misc{IoMTDistillation2026,
+  title        = {IoMT-Distillation: Knowledge Distillation Framework for IoMT Security},
+  author       = {Your Name and Collaborators},
+  year         = {2026},
+  publisher    = {GitHub},
+  howpublished = {\url{https://github.com/your-repo/IoMT-Distillation}},
+  note         = {Accessed: June 30, 2026}
+}
+```
