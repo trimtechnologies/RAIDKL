@@ -23,6 +23,7 @@ A comprehensive framework for training, distilling, and deploying 1D-CNN models 
 - Resource monitoring (time, memory, CPU)
 
 ## Project Structure
+```text
 IoMT-Distillation/
 ├── main.py                    # Main training orchestration
 ├── training.py                # Training loops (teacher, student, KD)
@@ -35,7 +36,7 @@ IoMT-Distillation/
 ├── checkpoints/               # Model weights & scalers
 ├── results/                   # Training results & plots
 └── logs/                      # Profiling logs
-
+```
 
 ## Setup
 
